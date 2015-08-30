@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Añadida segunda funcionalidad
 
 Corregido error en la funcionalidad 2
 
 Corregido error 2 en la funcionalidad 2
+=======
+Añadida segunda funcionalidad
+>>>>>>> parent of 7b215c6... corregido error en funcionalidad 2
