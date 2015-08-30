@@ -1,3 +1,5 @@
 Añadida segunda funcionalidad
 
 Corregido error en la funcionalidad 2
+
+Corregido error 2 en la funcionalidad 2
